@@ -1,2 +1,2 @@
 # DataSciencePortfolio
-This repository will contain all the awesome Data Science and Machine Learning Projects I will work on
+This repository contains all the awesome Data Science and Machine Learning projects I work on
